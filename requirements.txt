@@ -1,0 +1,8 @@
+# 基础依赖（面向初学者，尽量简洁）
+# 注意：若直接安装 torch 失败，请参阅 PyTorch 官方指引：https://pytorch.org/get-started/locally/
+torch
+torchvision
+
+# 推理与可视化
+pillow
+matplotlib
